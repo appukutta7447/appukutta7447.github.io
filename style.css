@@ -7,7 +7,7 @@ body {
 .navbar {
     background: black;
     color: white;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -44,4 +44,5 @@ button {
 
 button:hover {
     background: darkorange;
+
 }
